@@ -1,0 +1,7 @@
+C:\Users\Johnny\source\repos\Age Of Empires\Age Of Empires\bin\Debug\Age Of Empires.exe.config
+C:\Users\Johnny\source\repos\Age Of Empires\Age Of Empires\bin\Debug\Age Of Empires.exe
+C:\Users\Johnny\source\repos\Age Of Empires\Age Of Empires\bin\Debug\Age Of Empires.pdb
+C:\Users\Johnny\source\repos\Age Of Empires\Age Of Empires\obj\Debug\Age Of Empires.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\Age Of Empires\Age Of Empires\obj\Debug\Age Of Empires.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\Age Of Empires\Age Of Empires\obj\Debug\Age Of Empires.exe
+C:\Users\Johnny\source\repos\Age Of Empires\Age Of Empires\obj\Debug\Age Of Empires.pdb
